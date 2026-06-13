@@ -11,9 +11,6 @@ Building large-scale backend systems, AI platforms, and cloud-native application
 <img align="right" alt="coding" width="400"
 src="https://i.pinimg.com/originals/b1/3c/17/b13c1750619d9fc95b79097c2898bd49.gif">
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=hraj132&label=Profile%20Views&color=0e75b6&style=flat" alt="hraj132" />
-</p>
 
 ## 🚀 About Me
 
