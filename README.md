@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Harsh Raj</h1>
+
 
 <h3 align="center">
 Software Engineer | Distributed Systems | AI/LLM Applications | Cloud Infrastructure
@@ -8,13 +8,7 @@ Software Engineer | Distributed Systems | AI/LLM Applications | Cloud Infrastruc
 Building large-scale backend systems, AI platforms, and cloud-native applications.
 </p>
 
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"
-    alt="snake animation"
-    width="800"
-  />
-</p>
+
 
 ## 🚀 About Me
 
